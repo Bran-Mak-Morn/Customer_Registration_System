@@ -3,7 +3,7 @@ A Python project that registers customers - CRUD system
 
 ## Overview
 
-Project developed from scratch, focusing on foundational Python programming, object-oriented principles and CRUD operations.
+Project developed from scratch, focusing on foundational Python programming, object-oriented principles and CRUD operations (Create, Read, Update, Delete).
 
 ## Files
 
