@@ -17,8 +17,6 @@ Project developed from scratch, focusing on foundational Python programming, obj
 ### Prerequisites
 
 - Python 3.7+
-- Google Chrome & ChromeDriver
-- Required Python packages
 
 ### Installation
 
